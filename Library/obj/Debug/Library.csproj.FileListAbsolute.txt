@@ -20,3 +20,25 @@ C:\Users\danialk\Desktop\UITestFramework\Library\obj\Debug\Library.csprojAssembl
 C:\Users\danialk\Desktop\UITestFramework\Library\obj\Debug\Library.csproj.CopyComplete
 C:\Users\danialk\Desktop\UITestFramework\Library\obj\Debug\Library.dll
 C:\Users\danialk\Desktop\UITestFramework\Library\obj\Debug\Library.pdb
+D:\New folder (3)\UITestProject\Library\bin\Debug\NLog.config
+D:\New folder (3)\UITestProject\Library\bin\Debug\Library.dll
+D:\New folder (3)\UITestProject\Library\bin\Debug\Library.pdb
+D:\New folder (3)\UITestProject\Library\bin\Debug\BoDi.dll
+D:\New folder (3)\UITestProject\Library\bin\Debug\Gherkin.dll
+D:\New folder (3)\UITestProject\Library\bin\Debug\NLog.dll
+D:\New folder (3)\UITestProject\Library\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\New folder (3)\UITestProject\Library\bin\Debug\System.ValueTuple.dll
+D:\New folder (3)\UITestProject\Library\bin\Debug\Utf8Json.dll
+D:\New folder (3)\UITestProject\Library\bin\Debug\WebDriver.dll
+D:\New folder (3)\UITestProject\Library\bin\Debug\WebDriver.Support.dll
+D:\New folder (3)\UITestProject\Library\bin\Debug\BoDi.pdb
+D:\New folder (3)\UITestProject\Library\bin\Debug\NLog.xml
+D:\New folder (3)\UITestProject\Library\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\New folder (3)\UITestProject\Library\bin\Debug\System.ValueTuple.xml
+D:\New folder (3)\UITestProject\Library\bin\Debug\Utf8Json.xml
+D:\New folder (3)\UITestProject\Library\bin\Debug\WebDriver.xml
+D:\New folder (3)\UITestProject\Library\bin\Debug\WebDriver.Support.xml
+D:\New folder (3)\UITestProject\Library\obj\Debug\Library.csprojAssemblyReference.cache
+D:\New folder (3)\UITestProject\Library\obj\Debug\Library.csproj.CopyComplete
+D:\New folder (3)\UITestProject\Library\obj\Debug\Library.dll
+D:\New folder (3)\UITestProject\Library\obj\Debug\Library.pdb
