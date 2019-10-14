@@ -5,4 +5,12 @@
 
 @mytag
 Scenario: Add two numbers
-	Given I am logged into the DMI
+	Given the user is on the login page
+	When the user attempts to log in
+	Then the user is redirected to the DMI
+
+@mytag
+Scenario: Add three numbers
+	Given the user is on the login page
+	When the user attempts to log in
+	Then the user is redirected to the DMI

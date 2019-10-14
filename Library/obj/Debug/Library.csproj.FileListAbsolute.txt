@@ -42,3 +42,25 @@ D:\New folder (3)\UITestProject\Library\obj\Debug\Library.csprojAssemblyReferenc
 D:\New folder (3)\UITestProject\Library\obj\Debug\Library.csproj.CopyComplete
 D:\New folder (3)\UITestProject\Library\obj\Debug\Library.dll
 D:\New folder (3)\UITestProject\Library\obj\Debug\Library.pdb
+C:\CSharpUITestProject\UITestProject\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\CSharpUITestProject\UITestProject\Library\obj\Debug\Library.dll
+C:\CSharpUITestProject\UITestProject\Library\obj\Debug\Library.pdb
+C:\CSharpUITestProject\UITestProject\Library\bin\Debug\NLog.config
+C:\CSharpUITestProject\UITestProject\Library\bin\Debug\Library.dll
+C:\CSharpUITestProject\UITestProject\Library\bin\Debug\Library.pdb
+C:\CSharpUITestProject\UITestProject\Library\bin\Debug\BoDi.dll
+C:\CSharpUITestProject\UITestProject\Library\bin\Debug\Gherkin.dll
+C:\CSharpUITestProject\UITestProject\Library\bin\Debug\NLog.dll
+C:\CSharpUITestProject\UITestProject\Library\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\CSharpUITestProject\UITestProject\Library\bin\Debug\System.ValueTuple.dll
+C:\CSharpUITestProject\UITestProject\Library\bin\Debug\Utf8Json.dll
+C:\CSharpUITestProject\UITestProject\Library\bin\Debug\WebDriver.dll
+C:\CSharpUITestProject\UITestProject\Library\bin\Debug\WebDriver.Support.dll
+C:\CSharpUITestProject\UITestProject\Library\bin\Debug\BoDi.pdb
+C:\CSharpUITestProject\UITestProject\Library\bin\Debug\NLog.xml
+C:\CSharpUITestProject\UITestProject\Library\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\CSharpUITestProject\UITestProject\Library\bin\Debug\System.ValueTuple.xml
+C:\CSharpUITestProject\UITestProject\Library\bin\Debug\Utf8Json.xml
+C:\CSharpUITestProject\UITestProject\Library\bin\Debug\WebDriver.xml
+C:\CSharpUITestProject\UITestProject\Library\bin\Debug\WebDriver.Support.xml
+C:\CSharpUITestProject\UITestProject\Library\obj\Debug\Library.csproj.CopyComplete
