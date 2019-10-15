@@ -1,0 +1,177 @@
+2019-10-08 16:37:30.7003|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-08 16:37:38.2062|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-08 16:38:44.6865|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-08 16:38:51.9755|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 11:10:13.6679|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 11:10:23.5597|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.LinkText: Login
+2019-10-14 11:15:25.8000|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 11:15:33.5195|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 11:20:18.2101|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 11:20:25.8790|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 11:27:12.7786|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 11:27:19.2450|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 11:53:20.3686|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 11:53:26.4737|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 11:55:23.6982|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 11:55:29.9256|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 12:07:20.6120|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 12:07:26.9998|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 12:09:44.9268|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 12:09:46.1540|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 12:09:47.4035|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 12:09:54.4220|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 13:30:02.4182|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 13:30:03.6341|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 13:30:04.9860|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 13:30:07.3885|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 13:30:12.5303|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 13:30:13.5794|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 13:30:14.7876|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 13:30:17.0506|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 13:30:31.9253|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 13:30:33.1721|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 13:30:34.3100|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 13:30:36.6669|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 13:30:41.7737|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 13:30:42.8019|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 13:30:43.9309|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 13:30:46.3240|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 13:31:09.8786|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 13:31:11.0579|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 13:31:12.2561|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 13:31:14.9308|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 13:31:20.1039|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 13:31:21.3155|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 13:31:22.8655|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 13:31:25.6809|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 13:35:21.2491|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 13:35:22.4541|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 13:35:23.7433|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 13:35:25.9692|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 13:35:31.2483|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 13:35:32.3851|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 13:35:33.6036|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 13:35:35.9879|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 13:42:39.8158|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 13:42:40.9964|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 13:42:47.3320|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 13:42:49.5528|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 13:42:54.8108|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 13:42:55.8971|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 13:42:57.2943|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 13:42:59.8818|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 15:07:34.5314|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 15:07:35.7264|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 15:07:37.1774|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 15:07:39.5374|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 15:07:44.7921|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 15:07:45.9781|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 15:07:47.2171|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 15:07:49.2047|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 15:16:57.2594|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 15:16:58.5404|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 15:16:59.8564|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 15:17:01.7694|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 15:17:07.2751|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 15:17:08.2921|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 15:17:09.5559|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 15:17:11.2742|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 15:19:34.6512|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 15:19:35.7154|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 15:19:36.9958|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 15:19:39.1509|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 15:19:44.5064|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 15:19:45.5463|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 15:19:46.8810|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 15:19:49.0162|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 15:24:19.3760|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 15:24:20.4495|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 15:24:21.7601|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 15:24:28.9568|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 15:24:34.2978|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 15:24:35.4013|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 15:24:36.6363|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 15:24:38.9233|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 15:25:39.1332|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 15:25:40.1520|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 15:25:41.3422|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 15:25:43.4842|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 15:25:48.7384|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 15:25:49.7954|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 15:25:50.9474|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 15:25:53.3215|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 15:26:45.3368|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 15:26:46.3388|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 15:26:47.5181|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 15:26:54.6599|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 15:26:59.9864|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 15:27:01.1281|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 15:27:02.4845|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 15:27:04.9790|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 15:27:54.3860|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 15:27:55.4600|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 15:27:56.6507|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 15:27:58.8170|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 15:28:21.7474|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 15:28:22.9643|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 15:28:24.1509|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 15:28:26.8659|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 15:28:49.1871|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 15:28:50.2821|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 15:28:51.4291|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 15:28:53.4428|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 15:31:31.2219|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 15:31:32.2249|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 15:31:33.4952|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 15:31:40.8760|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-14 15:34:06.5292|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-14 15:34:07.5902|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-14 15:34:08.8349|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-14 15:34:16.0048|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-15 10:20:31.4399|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-15 10:20:32.7569|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-15 10:20:39.3777|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-15 10:20:46.1203|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-15 10:22:58.2642|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-15 10:22:59.3486|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-15 10:23:00.6911|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-15 10:23:03.0952|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-15 11:05:14.0640|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-15 11:05:15.2544|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-15 11:05:16.6788|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-15 11:05:18.9668|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-15 11:24:09.0218|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-15 11:24:10.6188|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-15 11:24:11.5538|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-15 11:24:15.2717|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-15 14:07:34.8983|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-15 14:07:36.4020|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-15 14:07:37.4017|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-15 14:07:41.0294|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-15 14:08:00.3612|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-15 14:08:01.6652|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-15 14:08:03.0152|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-15 14:08:05.1857|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-15 14:21:01.4182|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-15 14:21:02.6642|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-15 14:21:04.1285|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-15 14:21:06.3805|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-15 14:34:40.6087|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-15 14:34:42.2948|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-15 14:34:43.2435|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-15 14:34:47.0109|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-15 14:40:44.2438|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-15 14:41:21.8570|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-15 15:03:20.5580|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-15 15:12:01.9772|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-15 15:12:47.2384|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-15 15:37:11.7014|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-15 15:37:21.0325|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-15 15:37:38.9526|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-15 15:39:19.5047|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-15 15:43:33.5073|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-15 15:46:16.7560|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-15 15:59:46.4714|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-15 16:07:32.2417|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-15 16:10:59.3580|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
+2019-10-15 16:19:26.0287|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: button
