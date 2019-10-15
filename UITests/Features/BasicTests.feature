@@ -5,4 +5,6 @@
 
 @mytag
 Scenario: Add two numbers
-	Given I am logged into the DMI
+	Given basic test step 1
+	When basic test step 2
+	Then basic test step 3
