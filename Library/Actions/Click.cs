@@ -13,6 +13,11 @@ namespace Library.Actions
             Find.Element(driver, id).Click();
         }
 
+        public static void link(IWebDriver driver, By id)
+        {
+            Find.Element(driver, id).Click();
+        }
+
         public static void lastButtonByCSS(IWebDriver driver)
         {
             _Logger.Info("Attempting to click the last button using a CSS Selector");

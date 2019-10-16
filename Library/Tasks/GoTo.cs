@@ -6,21 +6,29 @@ namespace Library.Tasks
 {
     public class GoTo
     {
+        public static void DMILoginPage(IWebDriver driver)
+        {
+            driver.Navigate().GoToUrl("https://dmiqa3.calastonetest.com/dmi");
+        }
+
         public static void OrdersPage(IWebDriver driver)
         {
-            driver.FindElement(DMIDashboardPage.ordersLink).Click();
+            Click.link(driver, DMIDashboardPage.ordersLink);
         }
+
         public static void SettlementsPage(IWebDriver driver)
         {
-            driver.FindElement(DMIDashboardPage.settlementsLink).Click();
+            Click.link(driver, DMIDashboardPage.settlementsLink);
         }
+
         public static void BalancesPage(IWebDriver driver)
         {
-            driver.FindElement(DMIDashboardPage.balancesLink).Click();
+            Click.link(driver, DMIDashboardPage.balancesLink);
         }
+
         public static void RegisterPage(IWebDriver driver)
         {
-            driver.FindElement(DMIDashboardPage.registerLink).Click();
+            Click.link(driver, DMIDashboardPage.registerLink);
         }
 
     }

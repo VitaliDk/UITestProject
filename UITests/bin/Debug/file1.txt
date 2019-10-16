@@ -257,3 +257,8 @@
 2019-10-16 15:39:10.8927|INFO|Library.BaseClasses.BaseAction|Attempting to click on button with id: By.Name: buttown
 2019-10-16 16:21:42.9352|INFO|Library.BaseClasses.BaseAction|Attempting to click the last button using a CSS Selector
 2019-10-16 16:28:38.9057|INFO|Library.BaseClasses.BaseAction|Attempting to click the last button using a CSS Selector
+2019-10-16 16:53:42.5640|INFO|Library.BaseClasses.BaseAction|Attempting to click the last button using a CSS Selector
+2019-10-16 16:55:05.9785|INFO|UITests.BasicTestsSteps|The user is on the log in page
+2019-10-16 16:55:07.0942|INFO|UITests.BasicTestsSteps|Logging in to the DMI now
+2019-10-16 16:55:11.0092|INFO|UITests.BasicTestsSteps|The user is logged into the DMI
+2019-10-16 17:11:55.0176|INFO|Library.BaseClasses.BaseAction|Attempting to click the last button using a CSS Selector

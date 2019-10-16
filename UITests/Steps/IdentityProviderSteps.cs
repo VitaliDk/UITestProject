@@ -25,8 +25,9 @@ namespace UITests.Steps
         [Given(@"the user is on the login page")]
         public void GivenTheUserIsOnTheLoginPage()
         {
-            this.driver.driver.Navigate().GoToUrl("https://dmiqa3.calastonetest.com/dmi");
-            this.driver.driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
+            // this.driver.driver.Navigate().GoToUrl("https://dmiqa3.calastonetest.com/dmi");
+            GoTo.DMILoginPage(driver.driver);
+            driver.driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
         }
         
         [When(@"the user attempts to log in")]

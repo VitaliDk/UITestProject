@@ -1,4 +1,5 @@
 ﻿using OpenQA.Selenium;
+using Library.Actions;
 
 namespace Library.Tasks
 {
@@ -6,9 +7,9 @@ namespace Library.Tasks
     {
         public static void DMI(IWebDriver driver)
         {
-            Library.Actions.Enter2.into(Screens.DMILoginPage2.usernameField, "qa1");
-            Library.Actions.Enter2.into(Screens.DMILoginPage2.passwordField, "Password123.");
-            Library.Actions.Click2.button(Screens.DMILoginPage2.loginButton);
+            Enter2.into(Screens.DMILoginPage2.usernameField, "qa1");
+            Enter2.into(Screens.DMILoginPage2.passwordField, "Password123.");
+            Click2.button(Screens.DMILoginPage2.loginButton);
         }
     }
 }
