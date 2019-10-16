@@ -108,6 +108,33 @@ this.ScenarioInitialize(scenarioInfo);
             this.ScenarioStart();
 #line 11
     testRunner.Given("the user is logged into the DMI", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line 12
+ testRunner.When("the user attempts to log out", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line 13
+    testRunner.Then("the user is redirected to the DMI login page", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+#line hidden
+            this.ScenarioCleanup();
+        }
+        
+        [Xunit.FactAttribute(DisplayName="User is shown a validation message when attempting to log in with an invalid user" +
+            "name")]
+        [Xunit.TraitAttribute("FeatureTitle", "IdentityProvider")]
+        [Xunit.TraitAttribute("Description", "User is shown a validation message when attempting to log in with an invalid user" +
+            "name")]
+        public virtual void UserIsShownAValidationMessageWhenAttemptingToLogInWithAnInvalidUsername()
+        {
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("User is shown a validation message when attempting to log in with an invalid user" +
+                    "name", null, ((string[])(null)));
+#line 15
+this.ScenarioInitialize(scenarioInfo);
+            this.ScenarioStart();
+#line 16
+    testRunner.Given("the user is on the login page", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line 17
+ testRunner.When("the user attempts to log in with an invalid username", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line 18
+ testRunner.Then("the user is shown a validation message explaining that their login attempt was un" +
+                    "successful", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             this.ScenarioCleanup();
         }

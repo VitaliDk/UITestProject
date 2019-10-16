@@ -1,6 +1,6 @@
 ﻿
 using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
+using Library.HelperFunctions;
 
 namespace Library.Actions
 {
@@ -8,7 +8,7 @@ namespace Library.Actions
     {
         public static void into(IWebDriver driver, By id, string text)
         {
-            driver.FindElement(id).SendKeys(text);
+            Find.Element(driver, id).SendKeys(text);
         }
     }
 }

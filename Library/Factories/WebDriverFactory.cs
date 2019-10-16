@@ -2,6 +2,7 @@
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Edge;
+using System;
 using System.IO;
 using System.Reflection;
 
@@ -20,7 +21,7 @@ namespace Library.Factories
                 case BrowserType.Edge:
                     return getEdgeDriver();
                 default:
-                    return getChromeDriver();
+                    throw new ArgumentOutOfRangeException(browserType + " was not recognised as a valid browser type");
 
             }
         }
@@ -39,7 +40,6 @@ namespace Library.Factories
         }
         public IWebDriver getEdgeDriver()
         {
-            // Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)
             IWebDriver driver = new EdgeDriver();
             return driver;
         }

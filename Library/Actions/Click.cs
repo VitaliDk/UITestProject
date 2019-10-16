@@ -1,6 +1,6 @@
 ﻿using OpenQA.Selenium;
 using Library.BaseClasses;
-using NLog;
+using Library.HelperFunctions;
 
 namespace Library.Actions
 {
@@ -9,13 +9,19 @@ namespace Library.Actions
         
         public static void button(IWebDriver driver, By id)
         {
-            _Logger.Info("Attempting to click on button with id: " + id);
-            driver.FindElement(id).Click();
+            //_Logger.Info("Attempting to click on button with id: " + id);
+            Find.Element(driver, id).Click();
+        }
+
+        public static void lastButtonByCSS(IWebDriver driver)
+        {
+            _Logger.Info("Attempting to click the last button using a CSS Selector");
+            Find.Element(driver, By.CssSelector("button:last-child")).Click();
         }
 
         public static void linkByStringValue(IWebDriver driver, string text)
         {
-            driver.FindElement(By.LinkText(text)).Click();
+            Find.Element(driver, By.LinkText(text)).Click();
         }
     }
 }

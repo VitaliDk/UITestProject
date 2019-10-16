@@ -13,5 +13,6 @@ namespace Library.Screens
 
         public static By forgotPasswordLink = By.PartialLinkText("Forgot Password");
 
+        public static By invalidLoginAttemptMessage = By.ClassName("validation-summary-errors");
     }
 }

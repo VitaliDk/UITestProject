@@ -1,9 +1,7 @@
 ﻿using System;
 using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
-using Library.Tasks;
 using Library.Actions;
-using NLog;
+using Library.Screens;
 
 namespace Library.Tasks
 {
@@ -11,12 +9,18 @@ namespace Library.Tasks
     {
         public static void DMI(IWebDriver driver)
         {
-            Library.Actions.Enter.into(driver, Library.Screens.DMILoginPage.usernameField, "qa1");
-            Library.Actions.Enter.into(driver, Library.Screens.DMILoginPage.passwordField, "Password123.");
-            Library.Actions.Click.button(driver, Library.Screens.DMILoginPage.loginButton);
-            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(20);
-            
-            // Library.Actions.Click.linkByStringValue(driver, "73");
+            Enter.into(driver, DMILoginPage.usernameField, "qa1");
+            Enter.into(driver, DMILoginPage.passwordField, "Password123.");
+            Click.button(driver, DMILoginPage.loginButton);
+            WaitFor.element(driver, DMIDashboardPage.dashboard);
+        }
+
+        public static void DMIWithInvalidUsername(IWebDriver driver)
+        {
+            Enter.into(driver, DMILoginPage.usernameField, "invalidusernameTest");
+            Enter.into(driver, DMILoginPage.passwordField, "Password123.");
+            Click.button(driver, DMILoginPage.loginButton);
+            WaitFor.element(driver, DMILoginPage.usernameField);
         }
     }
 }

@@ -1,5 +1,6 @@
 ﻿using NLog;
 using OpenQA.Selenium;
+using System;
 
 namespace Library.BaseClasses
 {
@@ -7,4 +8,5 @@ namespace Library.BaseClasses
     {
         protected static readonly Logger _Logger = LogManager.GetCurrentClassLogger();
     }
+
 }

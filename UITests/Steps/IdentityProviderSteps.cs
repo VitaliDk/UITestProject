@@ -32,14 +32,32 @@ namespace UITests.Steps
         [When(@"the user attempts to log in")]
         public void WhenTheUserAttemptsToLogIn()
         {
-
             LoginTo.DMI(driver.driver);
         }
-        
+
+        [When(@"the user attempts to log in with an invalid username")]
+        public void WhenTheUserAttemptsToLogInWithAnInvalidUsername()
+        {
+            LoginTo.DMIWithInvalidUsername(driver.driver);
+        }
+
+        [When(@"the user attempts to log out")]
+        public void WhenTheUserAttemptsToLogOut()
+        {
+            Logout.DMI(driver.driver);
+        }
+
         [Then(@"the user is redirected to the DMI")]
         public void ThenTheUserIsRedirectedToTheDMI()
         {
             VerifyExistsOnPage.Element(driver.driver, DMIDashboardPage.dashboard);
+
+        }
+
+        [Then(@"the user is redirected to the DMI login page")]
+        public void ThenTheUserIsRedirectedToTheDMILoginPage()
+        {
+            VerifyExistsOnPage.Element(driver.driver, DMILoginPage.usernameField);
 
         }
 
@@ -49,11 +67,13 @@ namespace UITests.Steps
             GivenTheUserIsOnTheLoginPage();
             WhenTheUserAttemptsToLogIn();
             ThenTheUserIsRedirectedToTheDMI();
-            driver.driver.FindElement(DMIDashboardPage.accountDropDownToggle).Click();
-            driver.driver.FindElement(By.XPath("*/div/div/button[4]")).Click();
-            // //*[@id="userDropdownContainer"]/div/div/button[4]
-            driver.driver.FindElement(By.Id("tyranosaurus"));
+        }
 
+       
+        [Then(@"the user is shown a validation message explaining that their login attempt was unsuccessful")]
+        public void ThenTheUserIsUnsuccessfulInLoggingIntoTheDMI()
+        {
+            VerifyExistsOnPage.Element(driver.driver, DMILoginPage.invalidLoginAttemptMessage);
         }
     }
 }

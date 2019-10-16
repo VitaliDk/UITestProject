@@ -25,7 +25,8 @@ namespace UITests
         {
             // IWebDriver driver = new ChromeDriver();
             WebDriverFactory factory = new WebDriverFactory();
-            IWebDriver driver = factory.Create(BrowserType.Firefox);
+            IWebDriver driver = factory.Create(BrowserType.Chrome);
+            driver.Manage().Window.Maximize();
             this.driver.driver = driver;
         }
         [AfterScenario]
